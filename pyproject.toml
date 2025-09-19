@@ -24,6 +24,6 @@ playground = "smithery.cli.playground:main"
 
 [tool.smithery]
 # Function that returns a patched FastMCP server
-server = "time_server.server:create_server"
+server = "clock.server:create_server"
 
 
