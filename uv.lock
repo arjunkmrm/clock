@@ -76,7 +76,7 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "mcp", specifier = ">=1.14.0" },
-    { name = "smithery", specifier = ">=0.2.2" },
+    { name = "smithery", specifier = ">=0.2.3" },
 ]
 
 [[package]]
@@ -563,7 +563,7 @@ wheels = [
 
 [[package]]
 name = "smithery"
-version = "0.2.2"
+version = "0.2.3"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "art" },
@@ -571,9 +571,9 @@ dependencies = [
     { name = "toml" },
     { name = "typer" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/e6/ea/1c6ebd3552cc3ef77ab2ed8c3e790fc5829b73ceeccdda8d64f273e60286/smithery-0.2.2.tar.gz", hash = "sha256:0d8fa8b37407fa6b03ca9d3f838b3f5ab168755ef27153c1b3e65a7816f8bcda", size = 16528 }
+sdist = { url = "https://files.pythonhosted.org/packages/0a/71/d8fcef7516084881e8165671d9d23dfcb745fe331bb162b9cb21c6380d7f/smithery-0.2.3.tar.gz", hash = "sha256:335bdffe3155d779e48bdb5fbb68372cb93b14221f1de3be516530569c0ce72e", size = 16550 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/c9/5c/7920378fe8eaa11e3ad9b1c6a00aa9d4e9dac44bc07007f97e03edd28bb4/smithery-0.2.2-py3-none-any.whl", hash = "sha256:71e6e804d8cbc37d7bceeb725519bc3c08b6d0ccef88d2333f98df770acef498", size = 23179 },
+    { url = "https://files.pythonhosted.org/packages/6c/ef/05a8e7a15009d1a4ee40fbe2ef6cf2846ae6c33712a91eaa6b3640d7d63b/smithery-0.2.3-py3-none-any.whl", hash = "sha256:664b34660ae990967fb9b92154387f21481eb96c428b34b77e8cc07eae3973f3", size = 23219 },
 ]
 
 [[package]]
